@@ -1,4 +1,4 @@
 # firstproject-demo
 This is my first Git Repository
 <br>
-Author - Ritesh kumar
+Author - Ritesh kumar (student)
